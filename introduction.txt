@@ -1,0 +1,4 @@
+Brief Introduction About Myself
+My name is Theophilus, and I am currently learning how to use GitHub to manage and version my projects. I am interested in improving my skills in software development, problem-solving, and collaboration.
+
+I enjoy learning new technologies and working on creative ideas. This repository represents my first steps into using Git and GitHub effectively.
